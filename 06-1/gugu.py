@@ -7,3 +7,5 @@ def gugu(n):
         result.append(n * i)
         i = i + 1
     return result
+
+print(gugu(2))
